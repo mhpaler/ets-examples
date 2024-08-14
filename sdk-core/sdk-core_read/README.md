@@ -11,4 +11,4 @@ pnpm dev
 # open Vite dev url in browser.
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/ethereum-tag-service/ets=examples/tree/main/sdk-core/sdk-core-read)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/ethereum-tag-service/ets-examples/tree/main/sdk-core/sdk-core_read)
