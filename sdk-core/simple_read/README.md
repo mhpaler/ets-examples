@@ -1,6 +1,6 @@
 # `sdk-core` simple read contract example
 
-An simple example of implementing `sdk-core` read functions. In this case, using the `tokenClient` to "calculate" a tokenId from a tag string and checking to see if that tag exists.
+An simple example demonstrating `sdk-core` read functions.
 
 ## run locally
 
