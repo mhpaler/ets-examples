@@ -29,5 +29,7 @@ generated.ts
 vectors/**/*.json
 
 # docs
-site/dist
+**/dist
+**/dist/**/*.js
+**/dist/**/*.map
 .vercel

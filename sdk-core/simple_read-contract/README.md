@@ -13,4 +13,4 @@ npm run dev
 
 ## run on StackBlitz
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/ethereum-tag-service/examples/tree/main/sdk-core/simple_read)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/ethereum-tag-service/examples/tree/main/sdk-core/simple_read-contract)
